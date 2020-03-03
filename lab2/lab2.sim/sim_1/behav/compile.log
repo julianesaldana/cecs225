@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Julian/Desktop/cecs225/lab2/lab2.srcs/sources_1/new/lab2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Julian/Desktop/cecs225/lab2/lab2.srcs/sim_1/new/lab2_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab2_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Julian/Desktop/cecs225/lab2/lab2.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
